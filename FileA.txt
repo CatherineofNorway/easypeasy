@@ -1,5 +1,3 @@
 feature 1
 
-oops there was a mistake
-
-even bigger mistake
+wow, this merge was broken

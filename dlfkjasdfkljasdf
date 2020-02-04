@@ -1,0 +1,36 @@
+[33mcommit 9282acdff53509ab2441e277391973159e43d630[m[33m ([m[1;36mHEAD -> [m[1;32mfilebbranch[m[33m)[m
+Author: Catherine Adams <catherine.adams@soprasteria.com>
+Date:   Tue Feb 4 17:24:44 2020 +0100
+
+    this is the file B branch
+
+[33mcommit 8bd83e3ed280ac5d4598b6edbada364f3d2ae59d[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mfeaturex[m[33m)[m
+Merge: 45fdd26 0a978e8
+Author: Catherine Adams <catherine.adams@soprasteria.com>
+Date:   Tue Jan 21 18:52:32 2020 +0100
+
+    fix broken merge
+
+[33mcommit 0a978e8faf32ad0ae55fa13a2e46185e526a26e5[m
+Author: Catherine Adams <catherine.adams@soprasteria.com>
+Date:   Tue Jan 21 18:49:07 2020 +0100
+
+    oops
+
+[33mcommit 45fdd261a487b993bbac4e2ec4b645a38115032b[m
+Author: Catherine Adams <catherine.adams@soprasteria.com>
+Date:   Tue Jan 21 18:21:07 2020 +0100
+
+    add feature bigger mistake
+
+[33mcommit 33a27b63fda001d5cb311059293159fca94a5ff3[m
+Author: Catherine Adams <catherine.adams@soprasteria.com>
+Date:   Tue Jan 21 18:16:45 2020 +0100
+
+    add feature mistake
+
+[33mcommit e0ae608df2cb5a34c6243624401e9ef154d949fc[m
+Author: Catherine Adams <catherine.adams@soprasteria.com>
+Date:   Tue Jan 21 18:12:51 2020 +0100
+
+    fileA added
